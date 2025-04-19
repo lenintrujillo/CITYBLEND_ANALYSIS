@@ -40,6 +40,10 @@ The data spans a period of six months, and each row represents a single transact
 
 ## RESULTS
 
+![GRAPH_TOT_ING_MES](https://github.com/user-attachments/assets/eadf7080-0801-4be9-85de-705854b6dbe2)
+
+![GRAPH_TOT_TRANS_CAT](https://github.com/user-attachments/assets/0019879c-356b-4ffe-a66c-b70a107a6f68)
+
 1. **Similar performance across branches:** Monthly revenues were consistent among the three branches, showing balanced operational performance.
 
 2. **Exponential growth from month 3:** Revenues increased significantly from the third month, suggesting improved market positioning or effective strategies.
